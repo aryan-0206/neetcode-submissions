@@ -146,26 +146,6 @@ Even solving **one problem every day** compounds into hundreds of solved problem
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryan-0206&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-0206&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aryan-0206&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
